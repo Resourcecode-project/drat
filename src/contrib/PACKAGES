@@ -1,6 +1,7 @@
 Package: resourcecodedata
-Version: 0.1.0
+Version: 0.2.0
 Depends: R (>= 3.5)
+Suggests: resourcecode
 License: GPL (>= 3)
-MD5sum: a8a145b50b931517806d51a0b052b57f
+MD5sum: 899b9dd4f5840ff0716dbfee708bbf99
 NeedsCompilation: no
