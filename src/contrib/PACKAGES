@@ -3,5 +3,5 @@ Version: 0.2.0
 Depends: R (>= 3.5)
 Suggests: resourcecode
 License: GPL (>= 3)
-MD5sum: 899b9dd4f5840ff0716dbfee708bbf99
+MD5sum: 86d6c2266afb0d8c8448d4f0c58fc969
 NeedsCompilation: no
